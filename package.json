@@ -1,0 +1,27 @@
+{
+  "name": "physics-car",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/some1-u/physics-car.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/some1-u/physics-car/issues"
+  },
+  "homepage": "https://github.com/some1-u/physics-car#readme",
+  "devDependencies": {
+    "vite": "^8.0.3"
+  },
+  "dependencies": {
+    "three": "^0.183.2"
+  }
+}
